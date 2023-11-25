@@ -10,7 +10,7 @@ Discover a collection of state-of-the-art AI algorithms specifically tailored fo
 
 Highly improved precision of binding affinity prediction with evolutionary strategy and deep GCN block(addressing the over-smoothing problem).
 
-<img src="https://github.com/StarLight1212/FeatNN/blob/main/meta/Fig1.jpg" alt="FeatNN Architecture" style="max-width: 600px; max-height: 400px;">
+<img src="https://github.com/StarLight1212/FeatNN/blob/main/meta/Fig1.jpg" alt="FeatNN Architecture" style="max-width: 300px; max-height: 200px;">
 
 FeatNN achieves the SOTA performances in general datasets.
 ![alt text](https://github.com/StarLight1212/FeatNN/blob/main/meta/Fig2.jpg "SOTA Results")
